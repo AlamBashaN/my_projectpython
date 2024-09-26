@@ -10,4 +10,4 @@ if __name== "__main__":
     N=int(sys.stdin.readline().strip())
     A=list(map(int,sys.stdin.readline().strip().split()))
     result = min_sum_after_operations(N,A)
-    print(result
+    print(result)
